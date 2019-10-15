@@ -1,0 +1,342 @@
+
+.body {
+    height: 900px;
+    margin-top: 36px;
+    margin-left: 160px;
+    margin-right: 160px;
+    background-color: #edf2c5;
+    display: flex;
+    justify-content: center;
+}
+
+
+.Vegetables {
+    margin-top: 36px;
+    margin-bottom: 0px;
+    width: 271px;
+    height: 62px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.top {
+    width: 100px;
+    position: relative;
+    left: 742px;
+    top: 10px;
+    margin-top: -70px;
+    display: flex;
+
+}
+
+.instagram {
+    margin: 10px 5px;
+    right: 10px;
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+}
+
+.facebook {
+    margin: 10px 5px;
+    right: 10px;
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+}
+
+.line {
+    margin: 0px 5px;
+    position: relative;
+    top: 10px;
+    border-left-style: solid;
+    list-style: none;
+    border-width: 1px;
+    height: 25px;
+    border-color: #778a50;
+}
+
+.login {
+    margin: 10px 5px;
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 1px;
+    padding: 4px;
+}
+
+.join {
+    margin: 10px 5px;
+    width: 35px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 1px;
+    padding: 4px;
+}
+
+.menu {
+    list-style: none;
+    position: relative;
+    top: 0ex;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-left: 0px;
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+
+.home {
+    position: relative;
+    margin: 10px 30px 15px;
+    width: 51px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.about {
+    position: relative;
+    margin: 10px 30px 15px;
+    width: 80px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.vege {
+    position: relative;
+    margin: 10px 30px 15px;
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.online {
+    position: relative;
+    margin: 10px 30px 15px;
+    width: 56px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.contact {
+    position: relative;
+    margin: 10px 30px 15px;
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.vegetable {
+    position: relative;
+    top: 10px;
+    left: 30px;
+    line-height: 25px;
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--beige);
+    border-radius: 3px;
+    color: #edf2c5;
+    background-color: #778a50;
+}
+
+.body_box_vegetables {
+    width: 444px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+
+.img_vegetables_pepper {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 4px;
+}
+
+.img_vegetables_carrot {
+    margin: 15px 5px;
+}
+
+.img_vegetables_corn {
+    margin: 15px 4px;
+}
+
+.body_box_contact {
+    width: 444px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+
+.contact_all{
+    width: 300px;
+    position: relative;
+    left: 497px;
+    top: -235px;
+}
+
+.Contact {
+    position: relative;
+    top: 5px;
+    left: 30px;
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.box {
+    width: 444px;
+    height: 140px;
+    background-color: #f7fbda;
+}
+
+.for{
+    position: relative;
+    top: 15px;
+    left: 15px;
+  margin-top: 15px;
+  width: 414px;
+  height: 44px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+
+.line2 {
+    top: 15px;
+    margin: 10px 15px;
+    position: relative;
+    border-left-style: solid;
+    list-style: none;
+    border-width: 410px;
+    height: 1px;
+    border-color: #778a50;
+}
+
+.email_phone{
+    position: relative;
+    left: 15px;
+    top: 15px;
+    width: 197px;
+    height: 35px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+}
+
+.footer{
+    position: relative;
+    top:-220px;
+
+    width: 940px;
+    height: 60px;
+    background-color: #778a50;
+}
+
+.foot{
+    position: relative;
+    left: 320px;
+    top: 10px;
+    width: 301px;
+    height: 14px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
